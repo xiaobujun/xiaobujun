@@ -9,6 +9,6 @@
 </p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobujun&theme=dark&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wangzirui32&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xiaobujun&show_icons=true&theme=dark&count_private=true)
 ![](https://stats.justsong.cn/api/bilibili/?id=385262464&theme=dark)
 ![](https://activity-graph.herokuapp.com/graph?username=xiaobujun&theme=github)
